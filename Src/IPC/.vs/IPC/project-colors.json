@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7cbca16d-be00-485f-a181-856f8993fdf3": {
+      "ProjectGuid": "7cbca16d-be00-485f-a181-856f8993fdf3",
+      "DisplayName": "IPC",
+      "ColorIndex": 0
+    },
+    "d692e9e2-a347-4f0e-8c52-df12dcc4fb15": {
+      "ProjectGuid": "d692e9e2-a347-4f0e-8c52-df12dcc4fb15",
+      "DisplayName": "IPC.Core",
+      "ColorIndex": 1
+    },
+    "55be6eed-84f9-4c9a-8ff7-2042eb507dca": {
+      "ProjectGuid": "55be6eed-84f9-4c9a-8ff7-2042eb507dca",
+      "DisplayName": "IPC.Core",
+      "ColorIndex": 2
+    },
+    "b18eb96f-ce0a-4e4e-a7b8-1032e195aab0": {
+      "ProjectGuid": "b18eb96f-ce0a-4e4e-a7b8-1032e195aab0",
+      "DisplayName": "IPC.DataBase",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

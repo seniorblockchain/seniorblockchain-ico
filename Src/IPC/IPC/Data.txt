@@ -1,0 +1,20 @@
+﻿https://www.iconfinder.com/icons/2844388/coin_iota_iotacoin_icon
+
+CREATE TABLE [tbl_ERC20] (
+  [Address] VARCHAR UNIQUE, 
+  [Privatekey] VARCHAR NOT NULL, 
+  [Publickey] VARCHAR NOT NULL, 
+  [Money] REAL NOT NULL 
+  );
+
+
+CREATE TABLE [tbl_TRC20] (
+  [Address] VARCHAR UNIQUE, 
+  [Privatekey] VARCHAR NOT NULL, 
+  [Publickey] VARCHAR NOT NULL, 
+  [Money] REAL NOT NULL, 
+  CONSTRAINT [sqlite_autoindex_tbl_TRC20_1] PRIMARY KEY ([Address]));
+
+
+
+
