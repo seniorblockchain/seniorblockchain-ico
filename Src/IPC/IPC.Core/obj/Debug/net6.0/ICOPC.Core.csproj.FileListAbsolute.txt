@@ -1,0 +1,13 @@
+F:\Project\Milad\NewIPC\IPC\IPC.Core\bin\Debug\net6.0\ICOPC.Core.deps.json
+F:\Project\Milad\NewIPC\IPC\IPC.Core\bin\Debug\net6.0\ICOPC.Core.dll
+F:\Project\Milad\NewIPC\IPC\IPC.Core\bin\Debug\net6.0\ref\ICOPC.Core.dll
+F:\Project\Milad\NewIPC\IPC\IPC.Core\bin\Debug\net6.0\ICOPC.Core.pdb
+F:\Project\Milad\NewIPC\IPC\IPC.Core\obj\Debug\net6.0\ICOPC.Core.GlobalUsings.g.cs
+F:\Project\Milad\NewIPC\IPC\IPC.Core\obj\Debug\net6.0\ICOPC.Core.csproj.AssemblyReference.cache
+F:\Project\Milad\NewIPC\IPC\IPC.Core\obj\Debug\net6.0\ICOPC.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Milad\NewIPC\IPC\IPC.Core\obj\Debug\net6.0\ICOPC.Core.AssemblyInfoInputs.cache
+F:\Project\Milad\NewIPC\IPC\IPC.Core\obj\Debug\net6.0\ICOPC.Core.AssemblyInfo.cs
+F:\Project\Milad\NewIPC\IPC\IPC.Core\obj\Debug\net6.0\ICOPC.Core.csproj.CoreCompileInputs.cache
+F:\Project\Milad\NewIPC\IPC\IPC.Core\obj\Debug\net6.0\ICOPC.Core.dll
+F:\Project\Milad\NewIPC\IPC\IPC.Core\obj\Debug\net6.0\ref\ICOPC.Core.dll
+F:\Project\Milad\NewIPC\IPC\IPC.Core\obj\Debug\net6.0\ICOPC.Core.pdb

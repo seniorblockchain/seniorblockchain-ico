@@ -12,7 +12,7 @@ namespace IPC.DataBase
     public class DatabaseContext : DbContext
     {
         public DatabaseContext() : base(new SQLiteConnection()
-        { ConnectionString = new SQLiteConnectionStringBuilder() { DataSource = "IPC.db", ForeignKeys = true }.ConnectionString }, true)
+        { ConnectionString = new SQLiteConnectionStringBuilder() { DataSource = "ICOPC.db", ForeignKeys = true }.ConnectionString }, true)
         { }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

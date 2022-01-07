@@ -1,26 +1,26 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "7cbca16d-be00-485f-a181-856f8993fdf3": {
-      "ProjectGuid": "7cbca16d-be00-485f-a181-856f8993fdf3",
-      "DisplayName": "IPC",
+    "23ec68fa-753a-41ef-b620-65ded6ce081f": {
+      "ProjectGuid": "23ec68fa-753a-41ef-b620-65ded6ce081f",
+      "DisplayName": "ICOPC",
       "ColorIndex": 0
     },
-    "d692e9e2-a347-4f0e-8c52-df12dcc4fb15": {
-      "ProjectGuid": "d692e9e2-a347-4f0e-8c52-df12dcc4fb15",
-      "DisplayName": "IPC.Core",
+    "20c42eee-947a-4567-809f-c960b42d342e": {
+      "ProjectGuid": "20c42eee-947a-4567-809f-c960b42d342e",
+      "DisplayName": "ICOPC.Core",
       "ColorIndex": 1
     },
-    "55be6eed-84f9-4c9a-8ff7-2042eb507dca": {
-      "ProjectGuid": "55be6eed-84f9-4c9a-8ff7-2042eb507dca",
-      "DisplayName": "IPC.Core",
+    "a1578103-f4bb-4409-8d2c-8151ffe45424": {
+      "ProjectGuid": "a1578103-f4bb-4409-8d2c-8151ffe45424",
+      "DisplayName": "ICOPC.DataBase",
       "ColorIndex": 2
     },
-    "b18eb96f-ce0a-4e4e-a7b8-1032e195aab0": {
-      "ProjectGuid": "b18eb96f-ce0a-4e4e-a7b8-1032e195aab0",
-      "DisplayName": "IPC.DataBase",
-      "ColorIndex": 3
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 3
 }

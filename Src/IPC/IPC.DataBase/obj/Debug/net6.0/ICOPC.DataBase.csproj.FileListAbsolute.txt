@@ -1,0 +1,15 @@
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\bin\Debug\net6.0\ICOPC.DataBase.deps.json
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\bin\Debug\net6.0\ICOPC.DataBase.runtimeconfig.json
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\bin\Debug\net6.0\ICOPC.DataBase.dll
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\bin\Debug\net6.0\ref\ICOPC.DataBase.dll
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\bin\Debug\net6.0\ICOPC.DataBase.pdb
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPC.DataBase.GlobalUsings.g.cs
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPC.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPC.DataBase.AssemblyInfoInputs.cache
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPC.DataBase.AssemblyInfo.cs
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPC.DataBase.csproj.CoreCompileInputs.cache
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPC.DataBase.dll
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ref\ICOPC.DataBase.dll
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPC.DataBase.pdb
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPC.DataBase.genruntimeconfig.cache
+F:\Project\Milad\NewIPC\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPC.DataBase.csproj.AssemblyReference.cache
