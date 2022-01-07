@@ -31,3 +31,15 @@ F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\Tron
 F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\TronDotNet.Protocol.dll
 F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\ref\TronDotNet.Protocol.dll
 F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\TronDotNet.Protocol.pdb
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\bin\Debug\net6.0\TronDotNet.Protocol.deps.json
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\bin\Debug\net6.0\TronDotNet.Protocol.dll
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\bin\Debug\net6.0\ref\TronDotNet.Protocol.dll
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\bin\Debug\net6.0\TronDotNet.Protocol.pdb
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\TronDotNet.Protocol.csproj.AssemblyReference.cache
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\TronDotNet.Protocol.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\TronDotNet.Protocol.AssemblyInfoInputs.cache
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\TronDotNet.Protocol.AssemblyInfo.cs
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\TronDotNet.Protocol.csproj.CoreCompileInputs.cache
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\TronDotNet.Protocol.dll
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\ref\TronDotNet.Protocol.dll
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\obj\Debug\net6.0\TronDotNet.Protocol.pdb

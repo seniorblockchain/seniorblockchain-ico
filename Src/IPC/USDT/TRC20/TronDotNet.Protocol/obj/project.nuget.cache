@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pSRcVkhzi5Vo9ktubu6PFLqPZVTn+40KQyFyAbQtR8HPpHNwhDVUdJtdiU+mUgdOtD0yydiM1j4MK+y0VWSBzA==",
+  "dgSpecHash": "gTS/b9p9dLlF8eLmYSS2h8mReix4FqQGezV08cvbHYB4d6mFxuEriQNRt+dHODTZwz7gMsD9UirLmP9guiH6Ww==",
   "success": true,
-  "projectFilePath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj",
+  "projectFilePath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maftooh\\.nuget\\packages\\google.api.commonprotos\\1.7.0\\google.api.commonprotos.1.7.0.nupkg.sha512",
     "C:\\Users\\maftooh\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",

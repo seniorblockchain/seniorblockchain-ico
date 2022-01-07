@@ -31,3 +31,15 @@ F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDo
 F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDotNet.Crypto.dll
 F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ref\TronDotNet.Crypto.dll
 F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDotNet.Crypto.pdb
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\bin\Debug\net6.0\TronDotNet.Crypto.deps.json
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\bin\Debug\net6.0\TronDotNet.Crypto.dll
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\bin\Debug\net6.0\ref\TronDotNet.Crypto.dll
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\bin\Debug\net6.0\TronDotNet.Crypto.pdb
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDotNet.Crypto.csproj.AssemblyReference.cache
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDotNet.Crypto.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDotNet.Crypto.AssemblyInfoInputs.cache
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDotNet.Crypto.AssemblyInfo.cs
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDotNet.Crypto.csproj.CoreCompileInputs.cache
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDotNet.Crypto.dll
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ref\TronDotNet.Crypto.dll
+F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Crypto\obj\Debug\net6.0\TronDotNet.Crypto.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QGj8Zlh/Ewii0WQ1qcrif8gTjZZSxQdPpLaKy/gH+ch84y7DiBlsCb5uFK/vwa3qk+2M0uA0yn8UFBgDH2JgTw==",
+  "dgSpecHash": "rZxQHC63aHTjG/AFuYzHL5SK1RuwyvMJfVCiFV16EFNxL2FnSxolQaDQ1VFiMMM/iXHIhQkQkMtqu7vPbao2TQ==",
   "success": true,
-  "projectFilePath": "F:\\Project\\Milad\\NewIPC\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj",
+  "projectFilePath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maftooh\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\maftooh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -2233,11 +2233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\Milad\\NewIPC\\IPC\\IPC\\ICOPC.csproj",
+      "projectUniqueName": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\IPC\\ICOPC.csproj",
       "projectName": "ICOPC",
-      "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\IPC\\ICOPC.csproj",
+      "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\IPC\\ICOPC.csproj",
       "packagesPath": "C:\\Users\\maftooh\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\Milad\\NewIPC\\IPC\\IPC\\obj\\",
+      "outputPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\IPC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2258,23 +2258,23 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "F:\\Project\\Milad\\NewIPC\\IPC\\IPC.Core\\ICOPC.Core.csproj": {
-              "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\IPC.Core\\ICOPC.Core.csproj"
+            "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\IPC.Core\\ICOPC.Core.csproj": {
+              "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\IPC.Core\\ICOPC.Core.csproj"
             },
-            "F:\\Project\\Milad\\NewIPC\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj": {
-              "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj"
+            "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj": {
+              "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj"
             },
-            "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj": {
-              "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj"
+            "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj": {
+              "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj"
             },
-            "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj": {
-              "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj"
+            "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj": {
+              "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj"
             },
-            "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj": {
-              "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj"
+            "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj": {
+              "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj"
             },
-            "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj": {
-              "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj"
+            "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj": {
+              "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj"
             }
           }
         }

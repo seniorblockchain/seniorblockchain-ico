@@ -824,11 +824,11 @@
   "project": {
     "version": "0.5.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj",
+      "projectUniqueName": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj",
       "projectName": "TronDotNet",
-      "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj",
+      "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj",
       "packagesPath": "C:\\Users\\maftooh\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet\\obj\\",
+      "outputPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -849,14 +849,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj": {
-              "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj"
+            "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj": {
+              "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj"
             },
-            "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj": {
-              "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj"
+            "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj": {
+              "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj"
             },
-            "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj": {
-              "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj"
+            "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj": {
+              "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj"
             }
           }
         }

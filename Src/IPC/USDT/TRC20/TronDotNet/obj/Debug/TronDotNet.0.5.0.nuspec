@@ -21,6 +21,6 @@ TronDotNet makes it easy to build TRON applications with .net.</description>
     </dependencies>
   </metadata>
   <files>
-    <file src="F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet\bin\Debug\net6.0\TronDotNet.dll" target="lib\net6.0\TronDotNet.dll" />
+    <file src="F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet\bin\Debug\net6.0\TronDotNet.dll" target="lib\net6.0\TronDotNet.dll" />
   </files>
 </package>

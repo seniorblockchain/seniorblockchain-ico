@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4vg17Qd3QTpl7IJCwurXr0u2zyjblxIVftzMkcUZiGvj3s4nkunYhSt+IhN4Iy1cRdHlGnn0MfZGu9aW5zt+HA==",
+  "dgSpecHash": "aAXKup+zdH4iGUFwpIZol2OMku8Hr4gk4vvgAsI3SNwK30Q8NUxcByGW9fD9T04IvEBN/H0saHskvYGu137X2g==",
   "success": true,
-  "projectFilePath": "F:\\Project\\Milad\\NewIPC\\IPC\\IPC\\ICOPC.csproj",
+  "projectFilePath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\IPC\\ICOPC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maftooh\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\maftooh\\.nuget\\packages\\google.api.commonprotos\\2.4.0\\google.api.commonprotos.2.4.0.nupkg.sha512",

@@ -796,11 +796,11 @@
   "project": {
     "version": "0.5.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj",
+      "projectUniqueName": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj",
       "projectName": "TronDotNet.Protocol",
-      "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj",
+      "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj",
       "packagesPath": "C:\\Users\\maftooh\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\obj\\",
+      "outputPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

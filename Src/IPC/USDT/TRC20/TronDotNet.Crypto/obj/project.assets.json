@@ -239,11 +239,11 @@
   "project": {
     "version": "0.5.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj",
+      "projectUniqueName": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj",
       "projectName": "TronDotNet.Crypto",
-      "projectPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj",
+      "projectPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj",
       "packagesPath": "C:\\Users\\maftooh\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\Milad\\NewIPC\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\obj\\",
+      "outputPath": "F:\\Project\\Milad\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

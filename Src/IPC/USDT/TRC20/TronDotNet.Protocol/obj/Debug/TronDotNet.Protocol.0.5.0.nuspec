@@ -23,6 +23,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="F:\Project\Milad\NewIPC\IPC\USDT\TRC20\TronDotNet.Protocol\bin\Debug\net6.0\TronDotNet.Protocol.dll" target="lib\net6.0\TronDotNet.Protocol.dll" />
+    <file src="F:\Project\Milad\ICO-Platform-Client\Src\IPC\USDT\TRC20\TronDotNet.Protocol\bin\Debug\net6.0\TronDotNet.Protocol.dll" target="lib\net6.0\TronDotNet.Protocol.dll" />
   </files>
 </package>
