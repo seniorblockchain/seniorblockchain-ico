@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-   <a href="https://seniorblockchain.io"><img src="https://raw.githubusercontent.com/seniorblockchain/ICO-Platform-Client/main/doc/logo.png" height="100" alt="seniorblockchain"/></a> 
+   <a href="https://seniorblockchain.io"><img src="https://github.com/seniorblockchain/ICO-Platform-Client/blob/main/doc/logo.png" height="100" alt="seniorblockchain"/></a> 
   </p>
   <h3 align="center">
     ICO Platform Client
