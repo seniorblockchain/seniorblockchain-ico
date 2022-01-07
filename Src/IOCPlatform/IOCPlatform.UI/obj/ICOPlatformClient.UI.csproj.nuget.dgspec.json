@@ -1,0 +1,557 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC\\ICOPlatformClient.UI.csproj": {}
+  },
+  "projects": {
+    "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.Core\\ICOPC.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.Core\\ICOPC.Core.csproj",
+        "projectName": "ICOPC.Core",
+        "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.Core\\ICOPC.Core.csproj",
+        "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj",
+        "projectName": "ICOPC.DataBase",
+        "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj",
+        "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.115.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC\\ICOPlatformClient.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC\\ICOPlatformClient.UI.csproj",
+        "projectName": "ICOPlatformClient.UI",
+        "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC\\ICOPlatformClient.UI.csproj",
+        "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.Core\\ICOPC.Core.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.Core\\ICOPC.Core.csproj"
+              },
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\IPC.DataBase\\ICOPC.DataBase.csproj"
+              },
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj"
+              },
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj"
+              },
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj"
+              },
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[107.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj": {
+      "version": "0.5.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj",
+        "projectName": "TronDotNet.ABI",
+        "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj",
+        "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj": {
+      "version": "0.5.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj",
+        "projectName": "TronDotNet.Crypto",
+        "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj",
+        "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Api.CommonProtos": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Google.Protobuf.Tools": {
+              "target": "Package",
+              "version": "[3.11.2, )"
+            },
+            "NBitcoin.Secp256k1": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj": {
+      "version": "0.5.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj",
+        "projectName": "TronDotNet.Protocol",
+        "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj",
+        "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Api.CommonProtos": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Google.Protobuf.Tools": {
+              "target": "Package",
+              "version": "[3.11.2, )"
+            },
+            "Grpc": {
+              "target": "Package",
+              "version": "[2.26.0, )"
+            },
+            "Grpc.Net.ClientFactory": {
+              "target": "Package",
+              "version": "[2.32.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.32.0, )"
+            },
+            "NBitcoin.Secp256k1": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj": {
+      "version": "0.5.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj",
+        "projectName": "TronDotNet",
+        "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\TronDotNet.csproj",
+        "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.ABI\\TronDotNet.ABI.csproj"
+              },
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Crypto\\TronDotNet.Crypto.csproj"
+              },
+              "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj": {
+                "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IPC\\USDT\\TRC20\\TronDotNet.Protocol\\TronDotNet.Protocol.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

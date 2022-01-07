@@ -1,0 +1,13 @@
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\bin\Debug\net6.0\ICOPlatform.DataBase.deps.json
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\bin\Debug\net6.0\ICOPlatform.DataBase.runtimeconfig.json
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\bin\Debug\net6.0\ICOPlatform.DataBase.dll
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\bin\Debug\net6.0\ref\ICOPlatform.DataBase.dll
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\bin\Debug\net6.0\ICOPlatform.DataBase.pdb
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPlatform.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPlatform.DataBase.AssemblyInfoInputs.cache
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPlatform.DataBase.AssemblyInfo.cs
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPlatform.DataBase.csproj.CoreCompileInputs.cache
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPlatform.DataBase.dll
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\obj\Debug\net6.0\ref\ICOPlatform.DataBase.dll
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPlatform.DataBase.pdb
+D:\Github\ICOPlatform\ICO-Platform-Client\Src\IPC\IPC.DataBase\obj\Debug\net6.0\ICOPlatform.DataBase.genruntimeconfig.cache

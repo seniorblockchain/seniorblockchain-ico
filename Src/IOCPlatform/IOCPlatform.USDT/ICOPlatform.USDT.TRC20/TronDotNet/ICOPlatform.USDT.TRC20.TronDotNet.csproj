@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Authors>Miladsoft</Authors>
+    <Version>0.5.0</Version>
+    <PackageProjectUrl>https://github.com/miladsoft/TronDotNet</PackageProjectUrl>
+    <PackageTags>tron, tron protocol, tron grpc</PackageTags>
+    <Company>SeniorBlockchain</Company>
+    <Description>TronDotNet is a SDK that includes libraries for working with TRON.
+TronDotNet makes it easy to build TRON applications with .net.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/miladsoft/TronDotNet</RepositoryUrl>
+    <PackageReleaseNotes>Release notes are at https://github.com/miladsoft/TronDotNet/releases</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TronDotNet.ABI\ICOPlatform.USDT.TRC20.TronDotNet.ABI.csproj" />
+    <ProjectReference Include="..\TronDotNet.Crypto\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.csproj" />
+    <ProjectReference Include="..\TronDotNet.Protocol\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23ec68fa-753a-41ef-b620-65ded6ce081f": {
+      "ProjectGuid": "23ec68fa-753a-41ef-b620-65ded6ce081f",
+      "DisplayName": "ICOPlatform.UI",
+      "ColorIndex": 0
+    },
+    "20c42eee-947a-4567-809f-c960b42d342e": {
+      "ProjectGuid": "20c42eee-947a-4567-809f-c960b42d342e",
+      "DisplayName": "ICOPlatform.Core",
+      "ColorIndex": 1
+    },
+    "a1578103-f4bb-4409-8d2c-8151ffe45424": {
+      "ProjectGuid": "a1578103-f4bb-4409-8d2c-8151ffe45424",
+      "DisplayName": "ICOPlatform.DataBase",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "02990e46-8ba3-439b-a4c1-09d398694648": {
+      "ProjectGuid": "02990e46-8ba3-439b-a4c1-09d398694648",
+      "DisplayName": "TronDotNet",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

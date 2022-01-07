@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+    <PackageReference Include="RestSharp" Version="107.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IOCPlatform.Core\ICOPlatform.Core.csproj" />
+    <ProjectReference Include="..\IOCPlatform.DataBase\ICOPlatform.DataBase.csproj" />
+    <ProjectReference Include="..\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.ABI\ICOPlatform.USDT.TRC20.TronDotNet.ABI.csproj" />
+    <ProjectReference Include="..\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.csproj" />
+    <ProjectReference Include="..\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.csproj" />
+    <ProjectReference Include="..\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet\ICOPlatform.USDT.TRC20.TronDotNet.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Logging">
+      <HintPath>bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

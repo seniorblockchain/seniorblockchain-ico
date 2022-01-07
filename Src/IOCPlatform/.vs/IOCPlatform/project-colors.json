@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01bdb378-6b5e-4079-99c4-05e24a17d8e5": {
+      "ProjectGuid": "01bdb378-6b5e-4079-99c4-05e24a17d8e5",
+      "DisplayName": "ICOPlatform.UI",
+      "ColorIndex": 0
+    },
+    "0842130b-50fd-4591-b0af-a28d5584e5a2": {
+      "ProjectGuid": "0842130b-50fd-4591-b0af-a28d5584e5a2",
+      "DisplayName": "ICOPlatform.USDT.TRC20.TronDotNet",
+      "ColorIndex": 1
+    },
+    "c87ecae5-179e-48c9-a47e-233cc7345a58": {
+      "ProjectGuid": "c87ecae5-179e-48c9-a47e-233cc7345a58",
+      "DisplayName": "ICOPlatform.DataBase",
+      "ColorIndex": 2
+    },
+    "b07de6be-c0f0-40fa-aa8f-0cd0f0ae2112": {
+      "ProjectGuid": "b07de6be-c0f0-40fa-aa8f-0cd0f0ae2112",
+      "DisplayName": "ICOPlatform.USDT.TRC20.TronDotNet.ABI",
+      "ColorIndex": 3
+    },
+    "8060e60f-210f-4cf0-9c87-29b6e499a0b1": {
+      "ProjectGuid": "8060e60f-210f-4cf0-9c87-29b6e499a0b1",
+      "DisplayName": "ICOPlatform.USDT.TRC20.TronDotNet.Protocol",
+      "ColorIndex": 4
+    },
+    "7a44784c-11cd-46da-b2db-436bb03532b9": {
+      "ProjectGuid": "7a44784c-11cd-46da-b2db-436bb03532b9",
+      "DisplayName": "ICOPlatform.USDT.TRC20.TronDotNet.Crypto",
+      "ColorIndex": 5
+    },
+    "23f7b2ed-babb-4cf8-88ed-00cbf43a48b8": {
+      "ProjectGuid": "23f7b2ed-babb-4cf8-88ed-00cbf43a48b8",
+      "DisplayName": "ICOPlatform.USDT.TRC20.TronDotNet.Protocol",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
