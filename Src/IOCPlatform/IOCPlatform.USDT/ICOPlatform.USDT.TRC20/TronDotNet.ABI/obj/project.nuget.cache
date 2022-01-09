@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SvR2/quJ+UKwp/BNS64M40lMx01knq0OA7nwYVwIazrQk+9wbmajpDkgyaolUzDvfbvw6NVjyHBkJoa4cWIL1w==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Milad\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.ABI\\ICOPlatform.USDT.TRC20.TronDotNet.ABI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maftooh\\.nuget\\packages\\google.api.commonprotos\\1.7.0\\google.api.commonprotos.1.7.0.nupkg.sha512",
+    "C:\\Users\\maftooh\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
+    "C:\\Users\\maftooh\\.nuget\\packages\\google.protobuf.tools\\3.11.2\\google.protobuf.tools.3.11.2.nupkg.sha512",
+    "C:\\Users\\maftooh\\.nuget\\packages\\nbitcoin.secp256k1\\1.0.3\\nbitcoin.secp256k1.1.0.3.nupkg.sha512",
+    "C:\\Users\\maftooh\\.nuget\\packages\\portable.bouncycastle\\1.8.5.2\\portable.bouncycastle.1.8.5.2.nupkg.sha512",
+    "C:\\Users\\maftooh\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\maftooh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

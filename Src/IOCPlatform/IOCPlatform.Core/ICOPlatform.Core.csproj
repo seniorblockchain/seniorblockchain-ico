@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Leaf.xNet" Version="5.2.10" />
+    <PackageReference Include="Nethereum.Geth" Version="4.1.1" />
+    <PackageReference Include="Nethereum.Hex" Version="4.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IOCPlatform.DataBase\ICOPlatform.DataBase.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -251,30 +251,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Milad\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\maftooh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "0.5.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.ABI\\ICOPlatform.USDT.TRC20.TronDotNet.ABI.csproj",
+      "projectUniqueName": "D:\\Project\\Milad\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.ABI\\ICOPlatform.USDT.TRC20.TronDotNet.ABI.csproj",
       "projectName": "ICOPlatform.USDT.TRC20.TronDotNet.ABI",
-      "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.ABI\\ICOPlatform.USDT.TRC20.TronDotNet.ABI.csproj",
-      "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.ABI\\obj\\",
+      "projectPath": "D:\\Project\\Milad\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.ABI\\ICOPlatform.USDT.TRC20.TronDotNet.ABI.csproj",
+      "packagesPath": "C:\\Users\\maftooh\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\Milad\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.ABI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maftooh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -287,8 +282,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Crypto\\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.csproj": {
-              "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Crypto\\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.csproj"
+            "D:\\Project\\Milad\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Crypto\\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.csproj": {
+              "projectPath": "D:\\Project\\Milad\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Crypto\\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.csproj"
             }
           }
         }
@@ -317,7 +312,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

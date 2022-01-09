@@ -790,30 +790,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Milad\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\maftooh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "0.5.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Protocol\\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.csproj",
+      "projectUniqueName": "D:\\Project\\Milad\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Protocol\\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.csproj",
       "projectName": "ICOPlatform.USDT.TRC20.TronDotNet.Protocol",
-      "projectPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Protocol\\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.csproj",
-      "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\ICOPlatform\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Protocol\\obj\\",
+      "projectPath": "D:\\Project\\Milad\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Protocol\\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.csproj",
+      "packagesPath": "C:\\Users\\maftooh\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\Milad\\ICO-Platform-Client\\Src\\IOCPlatform\\IOCPlatform.USDT\\ICOPlatform.USDT.TRC20\\TronDotNet.Protocol\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maftooh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -884,7 +879,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

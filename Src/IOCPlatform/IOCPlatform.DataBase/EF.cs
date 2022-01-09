@@ -31,7 +31,7 @@ namespace IOCPlatform.DataBase
         [Key]
         public String Address { get; set; }
         public String Privatekey { get; set; }
-        public String Publickey { get; set; }
+       
         public Decimal Money { get; set; }
     }
 

@@ -1,0 +1,12 @@
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\bin\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.deps.json
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\bin\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.dll
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\bin\Debug\net6.0\ref\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.dll
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\bin\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.pdb
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.AssemblyInfoInputs.cache
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.AssemblyInfo.cs
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.csproj.CoreCompileInputs.cache
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.dll
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ref\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.dll
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.pdb
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Crypto\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Crypto.csproj.AssemblyReference.cache

@@ -26,13 +26,14 @@ namespace IOCPlatform
 
 
             var services = new ServiceCollection();
-            services.AddScoped<FrmAdressGen>();
+            services.AddScoped<FrmAdressGen>();   
+            services.AddScoped<FrmMain>();
             ConfigureServices(services);
           
 
             using (ServiceProvider serviceProvider = services.BuildServiceProvider())
             {
-                var frmAdressGen = serviceProvider.GetRequiredService<FrmAdressGen>();
+                var frmAdressGen = serviceProvider.GetRequiredService<FrmMain>();
                 Application.Run(frmAdressGen);
             }
 

@@ -35,7 +35,27 @@
       "ProjectGuid": "23f7b2ed-babb-4cf8-88ed-00cbf43a48b8",
       "DisplayName": "ICOPlatform.USDT.TRC20.TronDotNet.Protocol",
       "ColorIndex": 6
+    },
+    "37770dea-b435-4b31-b249-e5a607fc9b61": {
+      "ProjectGuid": "37770dea-b435-4b31-b249-e5a607fc9b61",
+      "DisplayName": "ICOPlatform.Core",
+      "ColorIndex": 7
+    },
+    "059b8bba-3882-494d-9525-01e270524e5b": {
+      "ProjectGuid": "059b8bba-3882-494d-9525-01e270524e5b",
+      "DisplayName": "ICOPlatform.USDT.TRC20.TronDotNet",
+      "ColorIndex": 8
+    },
+    "4c39d13d-bf63-419b-aacf-c98a72a783cf": {
+      "ProjectGuid": "4c39d13d-bf63-419b-aacf-c98a72a783cf",
+      "DisplayName": "ICOPlatform.USDT.TRC20.TronDotNet.ABI",
+      "ColorIndex": 9
+    },
+    "43f30169-7946-4bd9-a49f-bdc29f8f77f1": {
+      "ProjectGuid": "43f30169-7946-4bd9-a49f-bdc29f8f77f1",
+      "DisplayName": "ICOPlatform.USDT.TRC20.TronDotNet.Crypto",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 11
 }
