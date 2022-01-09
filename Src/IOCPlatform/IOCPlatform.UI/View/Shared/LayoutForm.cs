@@ -16,10 +16,5 @@ namespace ICOPlatform.UI.View.Shared
         {
             InitializeComponent();
         }
-
-        private void LayoutForm_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

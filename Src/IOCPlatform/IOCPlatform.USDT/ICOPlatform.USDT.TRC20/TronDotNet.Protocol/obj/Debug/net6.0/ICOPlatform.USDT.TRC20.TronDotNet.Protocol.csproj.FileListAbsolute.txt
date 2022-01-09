@@ -1,0 +1,11 @@
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\bin\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.deps.json
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\bin\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.dll
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\bin\Debug\net6.0\ref\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.dll
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\bin\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.pdb
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.AssemblyInfoInputs.cache
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.AssemblyInfo.cs
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.csproj.CoreCompileInputs.cache
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.dll
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\obj\Debug\net6.0\ref\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.dll
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.USDT\ICOPlatform.USDT.TRC20\TronDotNet.Protocol\obj\Debug\net6.0\ICOPlatform.USDT.TRC20.TronDotNet.Protocol.pdb

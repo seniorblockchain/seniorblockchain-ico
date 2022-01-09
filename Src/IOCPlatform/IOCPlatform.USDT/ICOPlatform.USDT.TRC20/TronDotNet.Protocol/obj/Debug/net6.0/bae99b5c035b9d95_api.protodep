@@ -1,5 +1,5 @@
 obj\Debug\net6.0\Protos\api/Api.cs \
-obj\Debug\net6.0\Protos\api/ApiGrpc.cs: C:/Users/Milad/.nuget/packages/grpc.tools/2.32.0/build/native/include/google/protobuf/any.proto\
+obj\Debug\net6.0\Protos\api/ApiGrpc.cs: C:/Users/maftooh/.nuget/packages/grpc.tools/2.32.0/build/native/include/google/protobuf/any.proto\
  Protos/core/Discover.proto\
  Protos/core/Tron.proto\
  Protos/google/api/http.proto\

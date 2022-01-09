@@ -16,27 +16,26 @@ namespace IOCPlatform.DataBase
 
                     
         }
-
+        public Boolean _Add_Tbl_ERC20(tbl_ERC20 _TRC20)
+        {
+            try
+            {
+                DatabaseContext context = new DatabaseContext();
+                context.Tbl_ERC20.Add(_TRC20);
+                context.SaveChanges();
+                return true;
+            }
+            catch { }
+            return false;
+        }
 
         public Boolean _Add_Tbl_TRC20(tbl_TRC20 _TRC20)
         {
             try
             {
-
-
-                DatabaseContext context = new DatabaseContext();
-
-                //tbl_ERC20 _tbl_ERC20 = new tbl_ERC20()
-                //{
-                //    Address = Guid.NewGuid().ToString(),
-                //    Privatekey = Guid.NewGuid().ToString(),
-                //    Publickey = Guid.NewGuid().ToString(),
-                //    Money = 0
-                //};
-
+                DatabaseContext context = new DatabaseContext(); 
                 context.Tbl_TRC20.Add(_TRC20);
                 context.SaveChanges();
-
                 return true;
             }
             catch { }
