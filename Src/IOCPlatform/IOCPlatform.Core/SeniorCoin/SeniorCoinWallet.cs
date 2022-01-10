@@ -12,6 +12,9 @@ namespace ICOPlatform.Core.SeniorCoin
 
         private const string _Url_Wallet_balance = "api/Wallet/balance?WalletName={0}&AccountName={1}";
         private const string _Url_Address_balance = "api/Wallet/received-by-address?Address={0}";
+        private const string _Url_BuildTrancetion = "api/Wallet/build-transaction";
+        private const string _Url_SendTrancetion = "api/Wallet/send-transaction";
+
 
         HttpBuilder _HttpBuilder;
         public SeniorCoinWallet()
@@ -84,6 +87,68 @@ namespace ICOPlatform.Core.SeniorCoin
             catch { }
 
             return new SeniorCoinAddress();
+        }
+
+        public SeniorCoinTransectionBuild _Post_BuildTrancetion(String _DestinationAddress, String _Amount , String _walletName , String _AccountName ,String _Password   )
+        {
+            try
+            {
+               
+                SeniorCoinRecipient _Recip = new SeniorCoinRecipient();
+                _Recip.destinationAddress = _DestinationAddress;
+                _Recip.amount = _Amount;
+
+                SeniorCoinbuildtransaction _Tr = new SeniorCoinbuildtransaction();
+                _Tr.recipients = new List<SeniorCoinRecipient>();
+                _Tr.recipients.Add(_Recip);
+                _Tr.feeAmount = "0.0001";
+                _Tr.password = _Password;
+                _Tr.segwitChangeAddress = true;
+                _Tr.walletName = _walletName;
+                _Tr.accountName = _AccountName;
+                _Tr.allowUnconfirmed = true;
+                _Tr.shuffleOutputs = true;
+
+
+
+                var _json = JsonConvert.SerializeObject(_Tr);
+
+
+                var _Data = _HttpBuilder._BuildRequst.Post(WalletUrl + _Url_BuildTrancetion, _json, "application/json").ToString();
+
+
+                var _balance = JsonConvert.DeserializeObject<SeniorCoinTransectionBuild>(_Data);
+
+                return _balance;
+            }
+            catch { }
+
+            return null;
+        }
+
+
+        public SeniorCoinResoult _Post_SendCoin(SeniorCoinTransectionBuild _BuildTR)
+        {
+            try
+            {
+                //SeniorCoinResoult
+
+                
+
+
+                var _json = JsonConvert.SerializeObject(_BuildTR);
+
+
+                var _Data = _HttpBuilder._BuildRequst.Post(WalletUrl + _Url_SendTrancetion, _json, "application/json").ToString();
+
+
+                var _balance = JsonConvert.DeserializeObject<SeniorCoinResoult>(_Data);
+
+                return _balance;
+            }
+            catch { }
+
+            return null;
         }
 
 

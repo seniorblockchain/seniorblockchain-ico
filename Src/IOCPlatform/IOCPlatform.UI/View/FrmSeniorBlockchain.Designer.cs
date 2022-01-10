@@ -41,13 +41,26 @@
             this.label3 = new System.Windows.Forms.Label();
             this.Btn_getAddressBalance = new System.Windows.Forms.Button();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.Txt_amount = new System.Windows.Forms.TextBox();
+            this.Txt_Password = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.Txt_TransferToAddress = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.Btn_Transfer = new System.Windows.Forms.Button();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.Btn_SendCoin = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
+            this.Txt_hex = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.Txt_transactionId = new System.Windows.Forms.TextBox();
+            this.Txt_fee = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
+            this.groupBox5.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -173,20 +186,59 @@
             // 
             // groupBox4
             // 
+            this.groupBox4.Controls.Add(this.label5);
+            this.groupBox4.Controls.Add(this.Txt_amount);
+            this.groupBox4.Controls.Add(this.Txt_Password);
+            this.groupBox4.Controls.Add(this.label6);
             this.groupBox4.Controls.Add(this.Txt_TransferToAddress);
             this.groupBox4.Controls.Add(this.label4);
             this.groupBox4.Controls.Add(this.Btn_Transfer);
             this.groupBox4.Location = new System.Drawing.Point(12, 272);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(473, 227);
+            this.groupBox4.Size = new System.Drawing.Size(473, 176);
             this.groupBox4.TabIndex = 3;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Transfer";
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(48, 34);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(60, 20);
+            this.label5.TabIndex = 3;
+            this.label5.Text = "amount";
+            // 
+            // Txt_amount
+            // 
+            this.Txt_amount.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Txt_amount.Location = new System.Drawing.Point(138, 32);
+            this.Txt_amount.Name = "Txt_amount";
+            this.Txt_amount.Size = new System.Drawing.Size(314, 27);
+            this.Txt_amount.TabIndex = 2;
+            this.Txt_amount.Text = "100";
+            // 
+            // Txt_Password
+            // 
+            this.Txt_Password.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Txt_Password.Location = new System.Drawing.Point(138, 99);
+            this.Txt_Password.Name = "Txt_Password";
+            this.Txt_Password.Size = new System.Drawing.Size(314, 27);
+            this.Txt_Password.TabIndex = 2;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(26, 102);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(70, 20);
+            this.label6.TabIndex = 1;
+            this.label6.Text = "Password";
+            // 
             // Txt_TransferToAddress
             // 
             this.Txt_TransferToAddress.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Txt_TransferToAddress.Location = new System.Drawing.Point(138, 122);
+            this.Txt_TransferToAddress.Location = new System.Drawing.Point(138, 66);
             this.Txt_TransferToAddress.Name = "Txt_TransferToAddress";
             this.Txt_TransferToAddress.Size = new System.Drawing.Size(314, 27);
             this.Txt_TransferToAddress.TabIndex = 2;
@@ -195,7 +247,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(26, 125);
+            this.label4.Location = new System.Drawing.Point(26, 69);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(82, 20);
             this.label4.TabIndex = 1;
@@ -203,19 +255,97 @@
             // 
             // Btn_Transfer
             // 
-            this.Btn_Transfer.Location = new System.Drawing.Point(138, 155);
+            this.Btn_Transfer.Location = new System.Drawing.Point(138, 132);
             this.Btn_Transfer.Name = "Btn_Transfer";
             this.Btn_Transfer.Size = new System.Drawing.Size(94, 29);
             this.Btn_Transfer.TabIndex = 0;
             this.Btn_Transfer.Text = "Transfer";
             this.Btn_Transfer.UseVisualStyleBackColor = true;
-            this.Btn_Transfer.Click += new System.EventHandler(this.Btn_getAddressBalance_Click);
+            this.Btn_Transfer.Click += new System.EventHandler(this.Btn_Transfer_Click);
+            // 
+            // groupBox5
+            // 
+            this.groupBox5.Controls.Add(this.label9);
+            this.groupBox5.Controls.Add(this.Txt_hex);
+            this.groupBox5.Controls.Add(this.Txt_fee);
+            this.groupBox5.Controls.Add(this.Btn_SendCoin);
+            this.groupBox5.Controls.Add(this.Txt_transactionId);
+            this.groupBox5.Controls.Add(this.label7);
+            this.groupBox5.Controls.Add(this.label8);
+            this.groupBox5.Location = new System.Drawing.Point(12, 454);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(473, 198);
+            this.groupBox5.TabIndex = 4;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "Send Coin";
+            // 
+            // Btn_SendCoin
+            // 
+            this.Btn_SendCoin.Location = new System.Drawing.Point(138, 130);
+            this.Btn_SendCoin.Name = "Btn_SendCoin";
+            this.Btn_SendCoin.Size = new System.Drawing.Size(94, 29);
+            this.Btn_SendCoin.TabIndex = 0;
+            this.Btn_SendCoin.Text = "Send Coin";
+            this.Btn_SendCoin.UseVisualStyleBackColor = true;
+            this.Btn_SendCoin.Click += new System.EventHandler(this.Btn_SendCoin_Click);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(26, 67);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(32, 20);
+            this.label7.TabIndex = 1;
+            this.label7.Text = "hex";
+            // 
+            // Txt_hex
+            // 
+            this.Txt_hex.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Txt_hex.Location = new System.Drawing.Point(138, 64);
+            this.Txt_hex.Name = "Txt_hex";
+            this.Txt_hex.Size = new System.Drawing.Size(314, 27);
+            this.Txt_hex.TabIndex = 2;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(26, 100);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(95, 20);
+            this.label8.TabIndex = 1;
+            this.label8.Text = "transactionId";
+            // 
+            // Txt_transactionId
+            // 
+            this.Txt_transactionId.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Txt_transactionId.Location = new System.Drawing.Point(138, 97);
+            this.Txt_transactionId.Name = "Txt_transactionId";
+            this.Txt_transactionId.Size = new System.Drawing.Size(314, 27);
+            this.Txt_transactionId.TabIndex = 2;
+            // 
+            // Txt_fee
+            // 
+            this.Txt_fee.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Txt_fee.Location = new System.Drawing.Point(138, 31);
+            this.Txt_fee.Name = "Txt_fee";
+            this.Txt_fee.Size = new System.Drawing.Size(314, 27);
+            this.Txt_fee.TabIndex = 2;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(48, 33);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(30, 20);
+            this.label9.TabIndex = 3;
+            this.label9.Text = "fee";
             // 
             // FrmSeniorBlockchain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(964, 511);
+            this.ClientSize = new System.Drawing.Size(964, 693);
+            this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
@@ -230,6 +360,8 @@
             this.groupBox3.PerformLayout();
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
+            this.groupBox5.ResumeLayout(false);
+            this.groupBox5.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -252,5 +384,17 @@
         private TextBox Txt_TransferToAddress;
         private Label label4;
         private Button Btn_Transfer;
+        private Label label5;
+        private TextBox Txt_amount;
+        private TextBox Txt_Password;
+        private Label label6;
+        private GroupBox groupBox5;
+        private TextBox Txt_hex;
+        private Button Btn_SendCoin;
+        private TextBox Txt_transactionId;
+        private Label label7;
+        private Label label8;
+        private Label label9;
+        private TextBox Txt_fee;
     }
 }

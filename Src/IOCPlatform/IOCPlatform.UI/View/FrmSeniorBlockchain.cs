@@ -112,5 +112,72 @@ namespace ICOPlatform.UI.View
             }
             catch (Exception ex) { }
         }
+
+        private void Btn_Transfer_Click(object sender, EventArgs e)
+        {
+            // _SeniorCoinWallet.WalletUrl = @"http://localhost:15000/";
+            try
+            {
+
+                var _Adress = _SeniorCoinWallet._Post_BuildTrancetion(Txt_TransferToAddress.Text, Txt_amount.Text, Txt_MyWallet.Text, Txt_Account.Text, Txt_Password.Text);
+                if (_Adress != null)
+                {
+                    _AddLog("");
+                    _AddLog("fee  : " + _Adress.fee);
+                    _AddLog("");
+                    _AddLog("hex  : " + _Adress.hex);
+                    _AddLog("");
+                    _AddLog("transactionId  : " + _Adress.transactionId );
+
+
+                    Txt_fee.Text = _Adress.fee.ToString();
+                    Txt_hex.Text = _Adress.hex;
+                    Txt_transactionId.Text = _Adress.transactionId;
+
+                }
+                else
+                {
+                    _AddLog("Failed Load data");
+                }
+            }
+            catch (Exception ex) { }
+        }
+
+        private void Btn_SendCoin_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+                SeniorCoinTransectionBuild _BuildTR = new SeniorCoinTransectionBuild();
+
+                _BuildTR.fee=Convert.ToInt32(Txt_fee.Text);
+                _BuildTR.hex = Txt_hex.Text;
+                _BuildTR.transactionId = Txt_transactionId.Text;
+
+
+                var _Adress = _SeniorCoinWallet._Post_SendCoin(_BuildTR);
+                if (_Adress != null)
+                {
+                    _AddLog("");
+                    _AddLog("transactionId  : " + _Adress.transactionId);
+                    _AddLog("");
+                    foreach (var _data in _Adress.outputs)
+                    {
+                        _AddLog("address  : " + _data.address);
+                        _AddLog("");
+                        _AddLog("amount  : " + _data.amount);
+                        _AddLog("");
+                    }
+
+                   
+
+                }
+                else
+                {
+                    _AddLog("Failed Load data");
+                }
+            }
+            catch (Exception ex) { }
+        }
     }
 }
