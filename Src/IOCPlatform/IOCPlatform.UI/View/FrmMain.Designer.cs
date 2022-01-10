@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
@@ -40,13 +41,12 @@
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripSeparator();
             this.aboutToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.Btn_Sync_Start = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.lbl_Sync_Status = new System.Windows.Forms.Label();
             this.lbl_Sync_Time = new System.Windows.Forms.Label();
+            this.lbl_Sync_Status = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.Btn_Sync_Stop = new System.Windows.Forms.Button();
+            this.Btn_Sync_Start = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.Txt_Log = new System.Windows.Forms.TextBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
@@ -72,6 +72,12 @@
             this.statusStrip1.Size = new System.Drawing.Size(888, 26);
             this.statusStrip1.TabIndex = 1;
             this.statusStrip1.Text = "statusStrip1";
+            // 
+            // toolStripStatusLabel1
+            // 
+            this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
+            this.toolStripStatusLabel1.Size = new System.Drawing.Size(100, 20);
+            this.toolStripStatusLabel1.Text = "System Status";
             // 
             // menuStrip1
             // 
@@ -101,36 +107,36 @@
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(221, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(220, 6);
             // 
             // Btn_AddressGen
             // 
             this.Btn_AddressGen.Name = "Btn_AddressGen";
-            this.Btn_AddressGen.Size = new System.Drawing.Size(224, 26);
+            this.Btn_AddressGen.Size = new System.Drawing.Size(223, 26);
             this.Btn_AddressGen.Text = "Address Generateor";
             this.Btn_AddressGen.Click += new System.EventHandler(this.Btn_AddressGen_Click);
             // 
             // tRC20ManagerToolStripMenuItem
             // 
             this.tRC20ManagerToolStripMenuItem.Name = "tRC20ManagerToolStripMenuItem";
-            this.tRC20ManagerToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.tRC20ManagerToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
             this.tRC20ManagerToolStripMenuItem.Text = "TRC20 Manager";
             // 
             // eRC20ManagerToolStripMenuItem
             // 
             this.eRC20ManagerToolStripMenuItem.Name = "eRC20ManagerToolStripMenuItem";
-            this.eRC20ManagerToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.eRC20ManagerToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
             this.eRC20ManagerToolStripMenuItem.Text = "ERC20 Manager";
             // 
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(221, 6);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(220, 6);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
             this.exitToolStripMenuItem.Text = "Exit";
             // 
             // aboutToolStripMenuItem
@@ -145,19 +151,13 @@
             // toolStripMenuItem3
             // 
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-            this.toolStripMenuItem3.Size = new System.Drawing.Size(221, 6);
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(130, 6);
             // 
             // aboutToolStripMenuItem1
             // 
             this.aboutToolStripMenuItem1.Name = "aboutToolStripMenuItem1";
-            this.aboutToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
+            this.aboutToolStripMenuItem1.Size = new System.Drawing.Size(133, 26);
             this.aboutToolStripMenuItem1.Text = "About";
-            // 
-            // toolStripStatusLabel1
-            // 
-            this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(100, 20);
-            this.toolStripStatusLabel1.Text = "System Status";
             // 
             // groupBox1
             // 
@@ -173,23 +173,14 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "TRC20-ERC20 Sync";
             // 
-            // Btn_Sync_Start
+            // lbl_Sync_Time
             // 
-            this.Btn_Sync_Start.Location = new System.Drawing.Point(129, 73);
-            this.Btn_Sync_Start.Name = "Btn_Sync_Start";
-            this.Btn_Sync_Start.Size = new System.Drawing.Size(119, 29);
-            this.Btn_Sync_Start.TabIndex = 0;
-            this.Btn_Sync_Start.Text = "Start";
-            this.Btn_Sync_Start.UseVisualStyleBackColor = true;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(28, 32);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(56, 20);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Status :";
+            this.lbl_Sync_Time.AutoSize = true;
+            this.lbl_Sync_Time.Location = new System.Drawing.Point(297, 32);
+            this.lbl_Sync_Time.Name = "lbl_Sync_Time";
+            this.lbl_Sync_Time.Size = new System.Drawing.Size(15, 20);
+            this.lbl_Sync_Time.TabIndex = 1;
+            this.lbl_Sync_Time.Text = "-";
             // 
             // lbl_Sync_Status
             // 
@@ -200,14 +191,14 @@
             this.lbl_Sync_Status.TabIndex = 1;
             this.lbl_Sync_Status.Text = "Ready!";
             // 
-            // lbl_Sync_Time
+            // label1
             // 
-            this.lbl_Sync_Time.AutoSize = true;
-            this.lbl_Sync_Time.Location = new System.Drawing.Point(297, 32);
-            this.lbl_Sync_Time.Name = "lbl_Sync_Time";
-            this.lbl_Sync_Time.Size = new System.Drawing.Size(15, 20);
-            this.lbl_Sync_Time.TabIndex = 1;
-            this.lbl_Sync_Time.Text = "-";
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(28, 32);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(56, 20);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Status :";
             // 
             // Btn_Sync_Stop
             // 
@@ -217,6 +208,16 @@
             this.Btn_Sync_Stop.TabIndex = 0;
             this.Btn_Sync_Stop.Text = "Stop";
             this.Btn_Sync_Stop.UseVisualStyleBackColor = true;
+            // 
+            // Btn_Sync_Start
+            // 
+            this.Btn_Sync_Start.Location = new System.Drawing.Point(129, 73);
+            this.Btn_Sync_Start.Name = "Btn_Sync_Start";
+            this.Btn_Sync_Start.Size = new System.Drawing.Size(119, 29);
+            this.Btn_Sync_Start.TabIndex = 0;
+            this.Btn_Sync_Start.Text = "Start";
+            this.Btn_Sync_Start.UseVisualStyleBackColor = true;
+            this.Btn_Sync_Start.Click += new System.EventHandler(this.Btn_Sync_Start_Click);
             // 
             // groupBox2
             // 

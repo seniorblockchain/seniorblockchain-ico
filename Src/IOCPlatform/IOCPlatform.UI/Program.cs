@@ -9,36 +9,38 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using TronDotNet;
+using ICOPlatform.UI.View;
 
 namespace IOCPlatform
 {
     internal static class Program
     {
-       
+
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
         [STAThread]
         static void Main()
-        { 
+        {
 
             ApplicationConfiguration.Initialize();
 
 
             var services = new ServiceCollection();
-            services.AddScoped<FrmAdressGen>();   
+            services.AddScoped<FrmAdressGen>();
             services.AddScoped<FrmMain>();
+            services.AddScoped<FrmSeniorBlockchain>();
             ConfigureServices(services);
-          
+
 
             using (ServiceProvider serviceProvider = services.BuildServiceProvider())
             {
-                var frmAdressGen = serviceProvider.GetRequiredService<FrmMain>();
+                var frmAdressGen = serviceProvider.GetRequiredService<FrmSeniorBlockchain>();
                 Application.Run(frmAdressGen);
             }
 
 
-         //   Application.Run(new FrmAdressGen());
+            //   Application.Run(new FrmAdressGen());
         }
 
         private static void ConfigureServices(ServiceCollection services)
