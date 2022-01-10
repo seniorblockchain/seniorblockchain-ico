@@ -7,6 +7,9 @@
     <Compile Update="View\FrmMain.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\FrmSeniorBlockchain.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\Shared\LayoutForm.cs">
       <SubType>Form</SubType>
     </Compile>

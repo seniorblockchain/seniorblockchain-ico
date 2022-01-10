@@ -184,6 +184,14 @@
           }
         }
       },
+      "Leaf.xNet/5.2.10": {
+        "runtime": {
+          "lib/netstandard2.0/Leaf.xNet.dll": {
+            "assemblyVersion": "5.2.10.0",
+            "fileVersion": "5.2.10.0"
+          }
+        }
+      },
       "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Extensions.Configuration/3.0.3": {
         "dependencies": {
@@ -1003,6 +1011,13 @@
       "sha512": "sha512-aOvISPvDYucMFQzCWcnzHbLoyBxVo6RN8WzYmZlSOGjkttRV8m49TCw5/sEDWDxp+OprihV+2cayUPuOIiN0nQ==",
       "path": "jsonrpcsharp/0.94.0--date20201018-1119.git-05d4006",
       "hashPath": "jsonrpcsharp.0.94.0--date20201018-1119.git-05d4006.nupkg.sha512"
+    },
+    "Leaf.xNet/5.2.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Oze0nomQponksY0Cc4KtaqHCAqzaIeIaFXKz8m/F4gnRARtIjUlUYl6+jYETBqwChEFkz/0jH4iGS+M5dn8TFQ==",
+      "path": "leaf.xnet/5.2.10",
+      "hashPath": "leaf.xnet.5.2.10.nupkg.sha512"
     },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",

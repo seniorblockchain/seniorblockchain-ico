@@ -40,9 +40,12 @@ namespace ICOPlatform.Core
             _HttpRequest.UserAgent = UserAgent;
         }
 
-        public HttpRequest _BuildRequst()
+        public HttpRequest _BuildRequst
         {
-            return _HttpRequest;
+            get
+            {
+                return _HttpRequest;
+            }
         }
 
     }

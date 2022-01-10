@@ -161,3 +161,4 @@ D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.UI\obj\Debug\ne
 D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.UI\obj\Debug\net6.0-windows\ICOPlatform.UI.pdb
 D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.UI\obj\Debug\net6.0-windows\ICOPlatform.UI.genruntimeconfig.cache
 D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.UI\bin\Debug\net6.0-windows\Leaf.xNet.dll
+D:\Project\Milad\ICO-Platform-Client\Src\IOCPlatform\IOCPlatform.UI\obj\Debug\net6.0-windows\ICOPlatform.UI.View.FrmSeniorBlockchain.resources

@@ -1,4 +1,5 @@
-﻿using ICOPlatform.UI.View.Shared;
+﻿using ICOPlatform.Core.SeniorCoin;
+using ICOPlatform.UI.View.Shared;
 using IOCPlatform.DataBase;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -59,6 +60,13 @@ namespace IOCPlatform
                 new FrmAdressGen(_wallet, _contract, _tron).Show();
             }
             catch { }
+        }
+
+        private void Btn_Sync_Start_Click(object sender, EventArgs e)
+        {
+           
+           
+
         }
     }
 }
